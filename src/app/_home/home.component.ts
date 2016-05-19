@@ -10,6 +10,5 @@ import {AppState} from '../app.service';
 })
 export class Home {
   constructor() {
-    console.log('home');
   }
 }
